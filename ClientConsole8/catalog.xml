@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/T8Felix/Backend?wsdl" uri="xml-resources/web-service-references/Backend/wsdl/localhost_8080/T8Felix/Backend.wsdl"/>
+    <system systemId="http://localhost:8080/T8Felix/Backend?xsd=1" uri="xml-resources/web-service-references/Backend/wsdl/localhost_8080/T8Felix/Backend.xsd_1.xsd"/>
+</catalog>
